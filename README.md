@@ -1,13 +1,10 @@
-<div style="display:flex;">
+<div style="display:flex">
+<img src="https://github.com/Apoorve8055/Nextjs-google-clone/raw/main/Screenshot/1.png" height="100" width="220"/>
 
-<img src="https://github.com/Apoorve8055/Nextjs-google-clone/raw/main/Screenshot/1.png"/>
+<img src="https://github.com/Apoorve8055/Nextjs-google-clone/raw/main/Screenshot/2.png" height="100" width="220"/>
 
-<img src="https://github.com/Apoorve8055/Nextjs-google-clone/raw/main/Screenshot/2.png"/>
-
-<img src="https://github.com/Apoorve8055/Nextjs-google-clone/raw/main/Screenshot/3.png"/>
-
+<img src="https://github.com/Apoorve8055/Nextjs-google-clone/raw/main/Screenshot/3.png" height="100" width="220"/>
 </div>
-
 
 
 # Nextjs Google Clone
