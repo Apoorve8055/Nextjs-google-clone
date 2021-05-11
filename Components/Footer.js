@@ -7,9 +7,7 @@ function Footer() {
           <a className="link">India</a>
           </div>
             
-      
             <div className="grid sm:grid-cols-2 grid-cols-1">
-
             <div className="flex space-x-8 p-3 justify-center md:justify-start">
                 <a className="link">About</a>
                 <a className="link">Advertising</a>
